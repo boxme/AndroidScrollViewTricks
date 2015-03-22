@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidScrollTrick</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="sticky_item">Sticky</string>
+    <string name="quick_return_item">Quick Return</string>
+</resources>
